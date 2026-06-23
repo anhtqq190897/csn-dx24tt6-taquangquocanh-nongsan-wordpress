@@ -1,0 +1,7 @@
+Các bước cấu hình:
+
+Bước 1: Tải WordPress lõi.
+
+Bước 2: Copy thư mục src/wp-content đè vào.
+
+Bước 3: Import file dữ liệu mẫu.
