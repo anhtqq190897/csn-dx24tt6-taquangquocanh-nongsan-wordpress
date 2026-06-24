@@ -1,0 +1,14 @@
+# Bỏ qua các tệp tin lưu vết hệ thống (Logs)
+*.log
+.DS_Store
+
+# Bỏ qua các tệp cấu hình môi trường của trình biên tập máy cá nhân
+.vscode/
+
+# Bỏ qua các tệp tin sao lưu dữ liệu có dung lượng lớn (Tránh lỗi giới hạn 100MB của GitHub)
+*.wpress
+*.sql
+*.zip
+*.tar.gz
+src/wp-content/ai1wm-backups/
+setup/
